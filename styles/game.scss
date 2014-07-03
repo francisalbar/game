@@ -3,8 +3,13 @@
 
 #stage {
 	background-color: #000;
+	position: relative;
 }
 
 .ship-type-wraith {
-	
+	background-image: url('../img/ship.wraith.gif');
+	background-position: 0 0;
+	width: 100px;
+	height: 100px;
+	position: absolute;
 }

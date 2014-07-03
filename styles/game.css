@@ -66,4 +66,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 /* line 4, game.scss */
 #stage {
   background-color: #000;
+  position: relative;
+}
+
+/* line 9, game.scss */
+.ship-type-wraith {
+  background-image: url("../img/ship.wraith.gif");
+  background-position: 0 0;
+  width: 100px;
+  height: 100px;
+  position: absolute;
 }
