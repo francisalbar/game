@@ -1,0 +1,24 @@
+{
+	"indent": 4,
+	"curly": true,
+	"eqeqeq": true,
+	"immed": true,
+	"latedef": true,
+	"newcap": true,
+	"noarg": true,
+	"sub": true,
+	"undef": true,
+	"unused": false,
+	"boss": true,
+	"eqnull": true,
+	"node": true,
+	"globals": {
+		"jQuery": true,
+		"$": true,
+		"console": true,
+		"angular": true,
+		"document": true,
+		"navigator":true,
+		"window": true
+	}
+}
